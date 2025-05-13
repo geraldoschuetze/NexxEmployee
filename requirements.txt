@@ -1,5 +1,0 @@
-tinydb
-streamlit-aggrid
-PyPDF2
-pip install openai==0.28.0
-python-dotenv
